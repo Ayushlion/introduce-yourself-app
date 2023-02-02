@@ -1,16 +1,26 @@
-# flutter_session_1
+# It's Money
 
-Introduce Yourself Application
+It's Money is a simple fun application that predicts your salary after your placements based on your interest among Competitive Programming, and Development. Ask to get an issue assigned. 
 
-## Getting Started
+# How to contribute to this project
 
-This project is a starting point for a Flutter application.
+- Make sure to read the [contributing guidelines](CONTRIBUTING.md) before contributing.
+- `Fork` this repository.
+- `Clone` your fork on local machine.
+- Switch to the `main` branch.
+- Make a new `branch`, preferably with the feature/issue name.
+- Checkout to the new branch with `git checkout <new_branch_name>`
+- Do the desired changes and `commit` them with `git commit -m '<a nice commit message here>'`.
+- `Push` the change to your fork on GitHub with `git push origin <your_branch_name>`
+- Make a `Pull Request` to the main branch in the original repository, i.e. this one.
 
-A few resources to get you started if this is your first Flutter project:
+Note: Make sure you are always up to date with sync and pull upstream. Sync and pull before you start and before you push your work.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+```
+$ Clone the project.
+$ Open it on Android Studio, or Visual Studio Code or any other IDE that supports the technologies used.
+$ Run the following command on the terminal:- "flutter pub get".
+$ Select the device where you want to run this project.
+$ Run the project.
+```
