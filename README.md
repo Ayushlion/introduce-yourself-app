@@ -1,6 +1,6 @@
 # Introduce Yourself App
 
-Introduce Yourself is an application to tell a little about youself.  Ask to get an issue assigned. 
+Introduce Yourself is an application to tell a little about yourself.  Ask to get an issue assigned. 
 
 # How to contribute to this project
 
