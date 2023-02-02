@@ -1,6 +1,6 @@
-# It's Money
+# Introduce Yourself App
 
-It's Money is a simple fun application that predicts your salary after your placements based on your interest among Competitive Programming, and Development. Ask to get an issue assigned. 
+Introduce Yourself is an application to tell a little about youself.  Ask to get an issue assigned. 
 
 # How to contribute to this project
 
